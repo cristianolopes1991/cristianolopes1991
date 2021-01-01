@@ -1,12 +1,8 @@
-# Welcome, I'm Cristiano Lopes!
+# Welcome!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristianolopes1991&label=Profile%20views&color=0e75b6&style=flat" alt="cristianolopes1991" /> </p>
 <h1 align="center">Hi 👋, I'm Cristiano Lopes</h1>
 <h3 align="center">Full Stack Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cristianolopes1991&label=Profile%20views&color=0e75b6&style=flat" alt="cristianolopes1991" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cristianolopes1991" alt="cristianolopes1991" /></a> </p>
 
 - 🔭 I’m currently working on **Fóton Informatica**
 
