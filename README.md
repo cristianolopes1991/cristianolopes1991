@@ -16,6 +16,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cristianolopes1991&show_icons=true&locale=en" alt="cristianolopes1991" /></p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cristianolopes1991&" alt="cristianolopes1991" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cristianolopes1991" alt="cristianolopes1991" /></a> </p>
