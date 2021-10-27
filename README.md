@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Cristiano Lopes</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **Fóton Informatica**
-
 - 🌱 I’m currently learning **React**
 
 
