@@ -6,10 +6,11 @@
 
 - 🌱 I’m currently learning **React**
 
+![Snake animation](https://github.com/cristianolopes1991/cristianolopes1991/blob/output/github-contribution-grid-snake.svg)
+
 
 **Connect With me:**</br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristianoprogrammer/)](https://www.linkedin.com/in/cristianoprogrammer/) [![Gmail Badge](https://img.shields.io/badge/-cristiano.br101ne@gmail.com-ff2400?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cristiano.br101ne@gmail.com)](mailto:cristiano.br101ne@gmail.com)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cristianolopes1991&show_icons=true&locale=en&layout=compact" alt="cristianolopes1991" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cristianolopes1991" alt="cristianolopes1991" /></a> </p>
