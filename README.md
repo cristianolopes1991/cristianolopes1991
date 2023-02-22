@@ -11,7 +11,7 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/cristianolopes1991/cristianolopes1991/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 <br/><br/>
 
-### 🖥️ Tecnologias e Ferramentas: 
+### 🖥️ Tools and Technologies: 
 <code><img width="40px" src="https://github.com/cristianolopes1991/cristianolopes1991/blob/main/images/java.png" title = "JAVA"/></code>
 <code><img width="40px" src="https://github.com/cristianolopes1991/cristianolopes1991/blob/main/images/angular.png" title = "Angular"/></code>
 <code><img width="40px" src="https://github.com/cristianolopes1991/cristianolopes1991/blob/main/images/ant.png" title = "Ant"/></code>
