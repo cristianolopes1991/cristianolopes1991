@@ -1,8 +1,7 @@
-# Welcome!
+# 👋 Hello! Welcome to my Github profile.
+## My name is Cristiano Lopes
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cristianolopes1991&label=Profile%20views&color=0e75b6&style=flat" alt="cristianolopes1991" /> </p>
-<h1 align="center">Hi 👋, I'm Cristiano Lopes</h1>
-<h3 align="center">Full Stack Developer</h3>
 
 - 🌱 I’m currently learning **React**
 
