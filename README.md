@@ -10,8 +10,14 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/cristianolopes1991/cristianolopes1991/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/cristianolopes1991/cristianolopes1991/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
+### 🖥️ Tecnologias e Ferramentas: 
+<code><img width="40px" src="	https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" title = "JAVA"/></code>
 
 
 
 **Connect With me:**</br>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristianoprogrammer/)](https://www.linkedin.com/in/cristianoprogrammer/) [![Gmail Badge](https://img.shields.io/badge/-cristiano.br101ne@gmail.com-ff2400?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cristiano.br101ne@gmail.com)](mailto:cristiano.br101ne@gmail.com)
+<div>
+<a href="https://www.linkedin.com/in/cristianoprogrammer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+
+<a href = "mailto:cristiano.br101ne@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </div>
