@@ -8,7 +8,7 @@
 
 <p align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></br> I'm Software Enginieer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br></p></br>
 
-<p>I'm gratuate in analysis and systems development for UniProjeção and MBA in software architecture and solutions from XPe old IGTI.</p>
+<p>I'm gratuate in analysis and systems development for UniProjeção and post-degree MBA in software architecture and solutions from XPe old IGTI.</p>
 <p>I have experience in software development, from backend development with Java to frontend using angularJS, with focusing in clouds environment with AWS.</p>
 <p>I'm always in search of the challenges, learning new tecnologies and your best practices of the utilization. I believe that we grow more with mistakes and difficulties than just with the happy path.</p>
 
