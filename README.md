@@ -42,7 +42,7 @@
 ![AmazonAws](https://img.shields.io/badge/amazon-aws-F4FB01?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/python-3D67B1?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Azure](https://img.shields.io/badge/azure-3D67B1?style=for-the-badge&logo=azure&logoColor=white)&nbsp;
+![Microsoft Azure](https://img.shields.io/badge/microsoftAzure-3D67B1?style=for-the-badge&logo=microsoftAzure&logoColor=white)&nbsp;
 
 ## </br></br>
 
