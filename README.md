@@ -1,4 +1,4 @@
-# Cristiano Lopes
+# Cristiano Lopes 👨‍💻
 
 ### Software Engineer | Java | AWS | Python | Full Stack Development | Cloud Computing
 
@@ -9,41 +9,40 @@
 
 ## Sobre mim
 
-Sou apaixonado por tecnologia e desenvolvimento de software, com foco em linguagens como **Java** e **Python**. Atualmente, estou expandindo minhas habilidades em **Cloud Computing** com **AWS** e estudando arquitetura de **microsserviços** para criar soluções escaláveis. Também tenho grande interesse em **DevOps**, com o uso de ferramentas como **Docker** e **Terraform** para automação de infraestrutura.
+Olá! Sou apaixonado por tecnologia e desenvolvimento de software 👨‍💻, com foco em **Java** e **Python**. Atualmente, estou me especializando em **Cloud Computing** com **AWS** ☁️ e estudando arquitetura de **microsserviços**. Também me dedico ao aprendizado de **DevOps**, utilizando ferramentas como **Docker** 🐳 e **Terraform** 🛠️.
 
-Além disso, venho estudando **Python** para complementar meu conhecimento em desenvolvimento **serverless** e automação. Tenho interesse em usar essa linguagem para desenvolver scripts automatizados e soluções que facilitam processos do dia a dia.
+Além disso, tenho explorado **Python** 🐍 para automação de processos e integração com serviços da AWS, ampliando meu repertório em **desenvolvimento serverless**. 🚀
 
-Estou sempre em busca de novos desafios e oportunidades para colaborar em projetos open-source e contribuir com a comunidade de desenvolvedores.
+Estou sempre buscando novos desafios e oportunidades de colaboração em projetos **open-source**. 
+
+![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 ---
 
-## Áreas de Estudo
+## Áreas de Estudo 📚
 
 ### Java & Spring Boot
-Estou me aprofundando no desenvolvimento **back-end** com **Java**, usando o **Spring Boot** como principal framework para criação de APIs robustas e escaláveis. Minhas áreas de estudo incluem:
-- Criação de APIs RESTful
+Estudo contínuo de **Java** e **Spring Boot** para desenvolver APIs robustas e escaláveis. Foco em:
+- Criação de APIs RESTful 🌐
 - Gerenciamento de banco de dados com **JPA** e **Hibernate**
 - Testes unitários com **JUnit**
 
-### AWS (Amazon Web Services)
-Estudo contínuo dos serviços da AWS, com foco em:
-- **AWS Lambda** para desenvolvimento serverless
+### AWS ☁️
+Explorando os serviços da AWS, com destaque para:
+- **Lambda Functions** para desenvolvimento serverless
 - **Amazon RDS** e **DynamoDB** para armazenamento de dados
-- **Amazon S3** para gerenciamento de arquivos e dados
-- **CloudFormation** e **Terraform** para automação de infraestrutura
+- **Amazon S3** para gerenciamento de arquivos
+- Automação de infraestrutura com **CloudFormation** e **Terraform**
 
-### Python
-Atualmente, estou estudando **Python** para automação e desenvolvimento de scripts que auxiliam na automação de processos e integração de serviços. Meus estudos incluem:
-- **Automação de processos** com **Python**
-- Desenvolvimento de **APIs** simples
-- Integração com serviços da **AWS** para automação
-
-### Microsserviços & Arquitetura Escalável
-Explorando padrões de arquitetura de microsserviços com **Spring Cloud**, **Docker** e **Kubernetes** para criar soluções escaláveis e resilientes, integrando mensagens assíncronas com **Kafka**.
+### Python 🐍
+Aprimorando minhas habilidades em **Python** para automação e scripts que facilitam processos do dia a dia:
+- **Automação de processos**
+- Desenvolvimento de APIs simples
+- Integração com **AWS**
 
 ---
 
-## Habilidades Técnicas
+## Habilidades Técnicas 💻
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -58,7 +57,7 @@ Explorando padrões de arquitetura de microsserviços com **Spring Cloud**, **Do
 
 ---
 
-## Certificações em Progresso
+## Certificações em Progresso 📜
 
 - **AWS Certified Solutions Architect – Associate** (Em estudo)
 - **AWS Certified Developer – Associate** (Em estudo)
@@ -66,15 +65,6 @@ Explorando padrões de arquitetura de microsserviços com **Spring Cloud**, **Do
 
 ---
 
-## Projetos Pessoais
-
-### [Projeto: Sistema de Gerenciamento de Tarefas](#)
-Um sistema completo de gerenciamento de tarefas construído com **Spring Boot** e **Angular**. Ele permite o gerenciamento de projetos, atribuição de tarefas, e integração com API de terceiros.
-
-### [Projeto: Automação com Python e AWS Lambda](#)
-Projeto que utiliza **Python** e **AWS Lambda** para automatizar a coleta e processamento de dados de diversas fontes, integrando com serviços da AWS como **S3** e **DynamoDB**.
-
----
 
 ## Contato
 
@@ -84,3 +74,5 @@ Projeto que utiliza **Python** e **AWS Lambda** para automatizar a coleta e proc
 ---
 
 ⭐️ Estou sempre buscando colaborar e aprender mais. Fique à vontade para explorar meus repositórios e contribuir!
+
+![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
