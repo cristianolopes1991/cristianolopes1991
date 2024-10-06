@@ -2,8 +2,7 @@
 
 ### Software Engineer | Java | AWS | Python | Full Stack Development | Cloud Computing
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-perfil-linkedin/)](https://www.linkedin.com/in/seu-perfil-linkedin/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/seu-github)](https://github.com/seu-github)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-perfil-linkedin/)]([https://www.linkedin.com/in/seu-perfil-linkedin/](https://www.linkedin.com/in/cristianoprogrammer/))
 [![Email](https://img.shields.io/badge/Email-mcacodesolutions@gmail.com-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:mcacodesolutions@gmail.com)](mailto:mcacodesolutions@gmail.com)
 
 ---
