@@ -63,7 +63,7 @@ Explorando padrões de arquitetura de microsserviços com **Spring Cloud**, **Do
 
 - **AWS Certified Solutions Architect – Associate** (Em estudo)
 - **AWS Certified Developer – Associate** (Em estudo)
-- **Oracle Certified Professional: Java SE 11 Developer** (Em estudo)
+- **Oracle Certified Professional: Java SE 17 Developer** (Em estudo)
 
 ---
 
