@@ -1,58 +1,87 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=034A96&height=120&section=header"/>
-<div align="right"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-<a href="https://www.linkedin.com/in/cristianoprogrammer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:cristiano.br101ne@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div></br>
+# Cristiano Lopes
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+I'm+Cristiano+Lopes;Be+Welcome!+:%29)](https://git.io/typing-svg)
+### Software Engineer | Java | AWS | Python | Full Stack Development | Cloud Computing
 
-<p align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></br> I'm Software Enginieer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br></p></br>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seu-perfil-linkedin/)](https://www.linkedin.com/in/seu-perfil-linkedin/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/seu-github)](https://github.com/seu-github)
+[![Email](https://img.shields.io/badge/Email-mcacodesolutions@gmail.com-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:mcacodesolutions@gmail.com)](mailto:mcacodesolutions@gmail.com)
 
-<p>I'm gratuate in analysis and systems development for UniProjeção and post-degree MBA in software architecture and solutions from XPe old IGTI.</p>
-<p>I have experience in software development, from backend development with Java to frontend using angularJS, with focusing in clouds environment with AWS.</p>
-<p>I'm always in search of the challenges, learning new tecnologies and your best practices of the utilization. I believe that we grow more with mistakes and difficulties than just with the happy path.</p>
+---
 
-## My Skills
+## Sobre mim
 
-#### Main Stack: 
+Sou apaixonado por tecnologia e desenvolvimento de software, com foco em linguagens como **Java** e **Python**. Atualmente, estou expandindo minhas habilidades em **Cloud Computing** com **AWS** e estudando arquitetura de **microsserviços** para criar soluções escaláveis. Também tenho grande interesse em **DevOps**, com o uso de ferramentas como **Docker** e **Terraform** para automação de infraestrutura.
 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-90814E?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-2B57CD?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![npm](https://img.shields.io/badge/npm-D6270E?style=for-the-badge&logo=npm&logoColor=white)&nbsp;
-![Spring Boot](https://img.shields.io/badge/springBoot-1A9C24?style=for-the-badge&logo=springBoot&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/spring-1A9C24?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![Hibernate](https://img.shields.io/badge/hibernate-90694E?style=for-the-badge&logo=hibernate&logoColor=white)&nbsp;
-![Angular](https://img.shields.io/badge/angular-D6270E?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/javaScript-F1EA05?style=for-the-badge&logo=javaScript&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/gitHub-000?style=for-the-badge&logo=gitHub&logoColor=white)&nbsp;
-![GitLab](https://img.shields.io/badge/gitLab-9B12EE?style=for-the-badge&logo=gitLab&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/linux-F99152?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
-![Typescript](https://img.shields.io/badge/tipeScript-0342B8?style=for-the-badge&logo=typeScript&logoColor=white)&nbsp;
-![Oracle](https://img.shields.io/badge/oracle-FA0303?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
-![Html5](https://img.shields.io/badge/html5-FF5733?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![Css3](https://img.shields.io/badge/css3-0D66F0?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/docker-0D66F0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+Além disso, venho estudando **Python** para complementar meu conhecimento em desenvolvimento **serverless** e automação. Tenho interesse em usar essa linguagem para desenvolver scripts automatizados e soluções que facilitam processos do dia a dia.
 
-</br>
+Estou sempre em busca de novos desafios e oportunidades para colaborar em projetos open-source e contribuir com a comunidade de desenvolvedores.
 
-#### Studying in this moment:
-![Cloud](https://img.shields.io/badge/cloud-1EB3A5?style=for-the-badge&logo=cloud&logoColor=white)&nbsp;
-![AmazonAws](https://img.shields.io/badge/amazon-aws-F4FB01?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/python-3D67B1?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Microsoft Azure](https://img.shields.io/badge/microsoft-3D67B1?style=for-the-badge&logo=microsoft&logoColor=white)&nbsp;
+---
 
-## </br></br>
+## Áreas de Estudo
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cristianolopes1991&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cristianolopes1991&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cristianolopes1991&theme=tokyonight) |
-| :-: | :-: | :-: |
+### Java & Spring Boot
+Estou me aprofundando no desenvolvimento **back-end** com **Java**, usando o **Spring Boot** como principal framework para criação de APIs robustas e escaláveis. Minhas áreas de estudo incluem:
+- Criação de APIs RESTful
+- Gerenciamento de banco de dados com **JPA** e **Hibernate**
+- Testes unitários com **JUnit**
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cristianolopes1991&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=cristianolopes1991&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
-| :-: | :-: |
-| :-: | :-: |
+### AWS (Amazon Web Services)
+Estudo contínuo dos serviços da AWS, com foco em:
+- **AWS Lambda** para desenvolvimento serverless
+- **Amazon RDS** e **DynamoDB** para armazenamento de dados
+- **Amazon S3** para gerenciamento de arquivos e dados
+- **CloudFormation** e **Terraform** para automação de infraestrutura
 
+### Python
+Atualmente, estou estudando **Python** para automação e desenvolvimento de scripts que auxiliam na automação de processos e integração de serviços. Meus estudos incluem:
+- **Automação de processos** com **Python**
+- Desenvolvimento de **APIs** simples
+- Integração com serviços da **AWS** para automação
 
+### Microsserviços & Arquitetura Escalável
+Explorando padrões de arquitetura de microsserviços com **Spring Cloud**, **Docker** e **Kubernetes** para criar soluções escaláveis e resilientes, integrando mensagens assíncronas com **Kafka**.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=034A96&height=120&section=footer"/>
+---
+
+## Habilidades Técnicas
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+
+---
+
+## Certificações em Progresso
+
+- **AWS Certified Solutions Architect – Associate** (Em estudo)
+- **AWS Certified Developer – Associate** (Em estudo)
+- **Oracle Certified Professional: Java SE 11 Developer** (Em estudo)
+
+---
+
+## Projetos Pessoais
+
+### [Projeto: Sistema de Gerenciamento de Tarefas](#)
+Um sistema completo de gerenciamento de tarefas construído com **Spring Boot** e **Angular**. Ele permite o gerenciamento de projetos, atribuição de tarefas, e integração com API de terceiros.
+
+### [Projeto: Automação com Python e AWS Lambda](#)
+Projeto que utiliza **Python** e **AWS Lambda** para automatizar a coleta e processamento de dados de diversas fontes, integrando com serviços da AWS como **S3** e **DynamoDB**.
+
+---
+
+## Contato
+
+- Email: [mcacodesolutions@gmail.com](mailto:mcacodesolutions@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/cristianoprogrammer/)
+
+---
+
+⭐️ Estou sempre buscando colaborar e aprender mais. Fique à vontade para explorar meus repositórios e contribuir!
